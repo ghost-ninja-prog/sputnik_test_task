@@ -1,0 +1,11 @@
+.btn {
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    background: linear-gradient(to right, #d591ff, #b265fd);
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
